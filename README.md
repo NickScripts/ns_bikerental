@@ -2,6 +2,9 @@ ns_bikerental
 
 (ESX Legacy)
 
+Requirements: https://github.com/NickScripts/ns_notify
+
+Features:
 - Comes with 10+ locations
 - Comes with 4 bikes
 - Customizable prices
